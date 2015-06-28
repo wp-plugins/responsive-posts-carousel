@@ -1,0 +1,200 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Responsive Posts Carousel 1.0\n"
+"POT-Creation-Date: 2015-06-19 10:58+0500\n"
+"PO-Revision-Date: 2015-06-19 11:17+0500\n"
+"Last-Translator: \n"
+"Language-Team: WeCodingPlace <rameez.iqbal@live.com>\n"
+"Language: Deutsch\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;_e;__\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins"
+"\\responsive-posts-carousel\n"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\responsive-posts-carousel/plugin.class.php:48
+msgid "Responsive Posts Carousel"
+msgstr "Messages Responsive Carousel"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\responsive-posts-carousel/plugin.class.php:48
+msgid "Need Help"
+msgstr "Besoin D'Aide"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\responsive-posts-carousel/plugin.class.php:56
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\responsive-posts-carousel/plugin.class.php:176
+msgid "Basic Settings"
+msgstr "Paramètres de base"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\responsive-posts-carousel/plugin.class.php:59
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\responsive-posts-carousel/plugin.class.php:62
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\responsive-posts-carousel/plugin.class.php:75
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\responsive-posts-carousel/plugin.class.php:179
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\responsive-posts-carousel/plugin.class.php:182
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\responsive-posts-carousel/plugin.class.php:195
+msgid "Select Taxonomy"
+msgstr "Sélectionnez Taxonomie"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\responsive-posts-carousel/plugin.class.php:79
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\responsive-posts-carousel/plugin.class.php:84
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\responsive-posts-carousel/plugin.class.php:199
+msgid "Select Term"
+msgstr "Sélectionnez terme"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\responsive-posts-carousel/plugin.class.php:98
+msgid "Please select any category first"
+msgstr "S'il vous plaît sélectionner toute première catégorie"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\responsive-posts-carousel/plugin.class.php:102
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\responsive-posts-carousel/plugin.class.php:204
+msgid "Select Term which posts will be shown in Carousel"
+msgstr "Sélectionnez terme qui messages seront affichés dans Carousel"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\responsive-posts-carousel/plugin.class.php:106
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\responsive-posts-carousel/plugin.class.php:208
+msgid "Exclude Posts"
+msgstr "exclure les messages"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\responsive-posts-carousel/plugin.class.php:111
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\responsive-posts-carousel/plugin.class.php:213
+msgid "Comma separated ids of posts that you do not want to display"
+msgstr ""
+"Comma identifiants de messages que vous ne souhaitez pas afficher séparé"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\responsive-posts-carousel/plugin.class.php:116
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\responsive-posts-carousel/plugin.class.php:218
+msgid "Background Color"
+msgstr "Couleur De Fond"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\responsive-posts-carousel/plugin.class.php:122
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\responsive-posts-carousel/plugin.class.php:224
+msgid "It is background color for Carousel"
+msgstr "Il est couleur de fond pour Carousel"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\responsive-posts-carousel/plugin.class.php:126
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\responsive-posts-carousel/plugin.class.php:228
+msgid "Carousel Settings"
+msgstr "Réglages Carousel"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\responsive-posts-carousel/plugin.class.php:129
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\responsive-posts-carousel/plugin.class.php:231
+msgid "Carousel Name (for your reference)"
+msgstr "Nom carrousel (pour votre référence)"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\responsive-posts-carousel/plugin.class.php:131
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\responsive-posts-carousel/plugin.class.php:233
+msgid "Item Width"
+msgstr "Largeur de l'article"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\responsive-posts-carousel/plugin.class.php:135
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\responsive-posts-carousel/plugin.class.php:237
+msgid "Speed of Slideshow Cycling"
+msgstr "Vitesse du diaporama Cyclisme"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\responsive-posts-carousel/plugin.class.php:137
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\responsive-posts-carousel/plugin.class.php:239
+msgid "Speed of Animation"
+msgstr "Vitesse de l'animation"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\responsive-posts-carousel/plugin.class.php:141
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\responsive-posts-carousel/plugin.class.php:243
+msgid "Show Time"
+msgstr "Afficher L'Heure"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\responsive-posts-carousel/plugin.class.php:142
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\responsive-posts-carousel/plugin.class.php:144
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\responsive-posts-carousel/plugin.class.php:150
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\responsive-posts-carousel/plugin.class.php:160
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\responsive-posts-carousel/plugin.class.php:162
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\responsive-posts-carousel/plugin.class.php:244
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\responsive-posts-carousel/plugin.class.php:246
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\responsive-posts-carousel/plugin.class.php:252
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\responsive-posts-carousel/plugin.class.php:262
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\responsive-posts-carousel/plugin.class.php:264
+msgid "Show"
+msgstr "spectacle"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\responsive-posts-carousel/plugin.class.php:143
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\responsive-posts-carousel/plugin.class.php:245
+msgid "Show Titles"
+msgstr "Afficher les titres"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\responsive-posts-carousel/plugin.class.php:147
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\responsive-posts-carousel/plugin.class.php:249
+msgid "Looping"
+msgstr "Looping"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\responsive-posts-carousel/plugin.class.php:148
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\responsive-posts-carousel/plugin.class.php:154
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\responsive-posts-carousel/plugin.class.php:156
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\responsive-posts-carousel/plugin.class.php:250
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\responsive-posts-carousel/plugin.class.php:256
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\responsive-posts-carousel/plugin.class.php:258
+msgid "Enable"
+msgstr "permettre"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\responsive-posts-carousel/plugin.class.php:149
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\responsive-posts-carousel/plugin.class.php:251
+msgid "Pause/Play Button"
+msgstr "Pause / Lecture Bouton"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\responsive-posts-carousel/plugin.class.php:153
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\responsive-posts-carousel/plugin.class.php:255
+msgid "Auto Slide"
+msgstr "diaporama auto"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\responsive-posts-carousel/plugin.class.php:155
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\responsive-posts-carousel/plugin.class.php:257
+msgid "Animate height of varying height items"
+msgstr "Animer varier la hauteur des éléments de hauteur"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\responsive-posts-carousel/plugin.class.php:159
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\responsive-posts-carousel/plugin.class.php:261
+msgid "Paging Control"
+msgstr "Contrôle de la pagination"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\responsive-posts-carousel/plugin.class.php:161
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\responsive-posts-carousel/plugin.class.php:263
+msgid "Previous/Next Arrows"
+msgstr "Précédent / Suivant Arrows"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\responsive-posts-carousel/plugin.class.php:167
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\responsive-posts-carousel/plugin.class.php:269
+msgid "Delete"
+msgstr "effacer"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\responsive-posts-carousel/plugin.class.php:168
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\responsive-posts-carousel/plugin.class.php:270
+msgid "Add New Carousel"
+msgstr "Ajouter un nouveau Carousel"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\responsive-posts-carousel/plugin.class.php:169
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\responsive-posts-carousel/plugin.class.php:271
+msgid "Get Shortcode"
+msgstr "Obtenez Shortcode"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\responsive-posts-carousel/plugin.class.php:174
+msgid "Posts Carousel"
+msgstr "messages Carousel"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\responsive-posts-carousel/plugin.class.php:201
+msgid "Please select any taxonomy first"
+msgstr "S'il vous plaît sélectionner toute taxinomie premier"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\responsive-posts-carousel/plugin.class.php:232
+msgid "My Carousel"
+msgstr "Mon Carousel"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\responsive-posts-carousel/plugin.class.php:278
+msgid "Save Changes"
+msgstr "Sauvegarder Les Changements"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\responsive-posts-carousel/plugin.class.php:280
+msgid "Changes Saved"
+msgstr "modifications enregistrées"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\responsive-posts-carousel/plugin.class.php:289
+msgid "Sorry! this Taxonomy has no Terms."
+msgstr "Désolé! Cette taxonomie n'a pas Conditions."
