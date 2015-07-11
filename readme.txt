@@ -8,18 +8,19 @@ Stable tag: 1.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Displays Posts and Custom Post Types as Carousel using Shortcodes,
-You can also use Custom Taxonomies and Terms
+Displays Posts, WooCommerce Products and Custom Post Types as Carousel using Shortcodes
 
 == Description ==
-Displays Posts and Custom Post Types as Carousel using Shortcodes,
-You can also use Custom Taxonomies and Terms 
+Displays Posts, WooCommerce Products and Custom Post Types as Carousel using Shortcodes,
+You can also use Custom Taxonomies and Terms <br>
+<a href="http://demos.webcodingplace.com/responsive-posts-carousel-wordpress-plugin/">SEE DEMO</a>
 
 <h3>Translations</h3>
 <ul>
 	<li>English</li>
 	<li>German</li>
 	<li>French</li>
+	<li><a href="http://webcodingplace.com/plugin-feature-request/">Request Your Language</a></li>
 </ul>
 <h3>Features</h3>
 <ul>
