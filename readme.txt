@@ -1,6 +1,6 @@
 === Responsive Posts Carousel ===
 Contributors: Rameez_Iqbal
-Tags: carousel, custom posts, gallery, pages, posts, responsive, shortcode, slider, slider plugin, wordpress
+Tags: carousel, custom posts, gallery, pages, posts, responsive, shortcode, slider, slider plugin, wordpress, dutch, german, multi language, i18n, i10n, french
 Donate link: https://www.2checkout.com/checkout/purchase?sid=202485641&quantity=1&product_id=1
 Requires at least: 3.0
 Tested up to: 4.2.2
